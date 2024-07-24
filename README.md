@@ -8,7 +8,7 @@
 
 ---
 
-โปรเจคนี้สร้างขึ้นด้วยใช้ Next.js (TypeScript)
+โปรเจคนี้สร้างขึ้นด้วย Next.js (TypeScript)
 หลังจากการ Fork และ Clone repository แล้ว, ให้เปิดโฟลเดอร์ด้วย VSCode และรันคำสั่งต่อไปนี้ใน terminal:
 
 ```bash
