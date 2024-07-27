@@ -14,4 +14,4 @@ export default function Footer(props: Namep) {
       </p>
     </div>
   );
-}
+} 

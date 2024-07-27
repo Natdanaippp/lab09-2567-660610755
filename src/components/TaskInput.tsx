@@ -25,7 +25,7 @@ export default function TaskInput({ addTaskFunc }: TaskInputProps) {
       <input
         className="form-control"
         placeholder="Insert a task here.."
-        onChange={taskInputOnChange}
+        onChange={taskInputOnChange} 
         onKeyUp={taskInputOnKeyUp}
         value={taskInput}
       />

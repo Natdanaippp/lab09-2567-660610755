@@ -22,7 +22,7 @@ export default function Task({
   };
   const doneBtnOnClick = () => {
     toggleDoneTaskFunc(id);
-  };
+  }; 
 
   return (
     <div className="d-flex p-3 gap-2 align-items-center border-bottom">

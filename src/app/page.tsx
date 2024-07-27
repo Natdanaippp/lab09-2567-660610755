@@ -42,7 +42,7 @@ export default function Home() {
     if (task) {
     task.completed = !task.completed;
     }
-    setTasks(newTasks);
+    setTasks(newTasks); 
   };
 
   return (
